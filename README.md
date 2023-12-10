@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗠𝗞𝗡'𝗦+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+𝗠𝗿+𝗠𝗞𝗡+𝗧𝗚!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗦𝗨𝗥𝗜+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+𝗠𝗿+𝗦𝗨𝗥𝗜+𝟵𝟭𝟵!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
 <p align="center">
 
 
@@ -6,13 +6,13 @@
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : 𝙼𝙺𝙽 😉
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : 𝚂𝚄𝚁𝙸 919
 <p align="left">
 • 𝙰𝚐𝚎 : 19
 <p align="left">
-• 𝙿𝚕𝚊𝚌𝚎 : 𝙺𝚊𝚗𝚗𝚞𝚛
+• 𝙿𝚕𝚊𝚌𝚎 : 𝚁𝙰𝙹𝙰𝚂𝚃𝙷𝙰𝙽
 <p align="left">
-• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙼𝚊𝚕𝚊𝚢𝚊𝚕𝚊𝚖
+• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙷𝙸𝙽𝙳𝙸
 <p align="left">
 • 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 𝚍𝚎𝚐𝚛𝚎𝚎 2 𝚢𝚎𝚊𝚛
 <p align="left">
@@ -20,15 +20,15 @@
 
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=ImSuri919&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSuri919&&show_icons=true&theme=midnight-purple" alt="ImSuri919"/></p>        
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSuri919&layout=compact&theme=tokyonight" align="center">
 
 
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
@@ -41,11 +41,11 @@ Used Languages
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
-<a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
+<a href="https://t.me/barupal_ofc"><img title="Telegram" src="https://img.shields.io/static/v1?label=SURI&message=TG&color=blue-green"></a>
 
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
 
-<img width="50%" src="https://gpvc.arturio.dev/MrMKN" alt="Profile views" />
+<img width="50%" src="https://gpvc.arturio.dev/ImSuri919" alt="Profile views" />
 
 
 
